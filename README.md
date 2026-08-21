@@ -3,17 +3,17 @@ api-test-automation-framework
 ├── src
 │   ├── main
 │   │   ├── java
-│   ├── test
-        ├── java
-            ├── io
-                ├── davidsusanto
-                    ├── context
+│   ├── test/
+        ├── java/
+            ├── io/
+                ├── davidsusanto/
+                    ├── context/
                     │   ├── TestContext.java
                     │   ├── ApiContext.java
-                    │   ├── DataContext.java
-                    ├── runners
+                    │   └── DataContext.java
+                    ├── runners/
                     │   ├── CucumberTest.java
-                    │   ├── CucumberDryRunTest.java
-                    ├── stepdefs
+                    │   └── CucumberDryRunTest.java
+                    ├── stepdefs/
                         ├── common
 ```
