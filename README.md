@@ -1,8 +1,14 @@
 ```plain
 api-test-automation-framework
-├── src
-│   ├── main
-│   │   ├── java
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │       ├── io/
+│   │           ├── davidsusanto/
+│   │               ├── api/
+│   │                   ├── factory/
+│   │                       ├── RequestSpecFactory.java
+│   │                       └── ResponseSpecFactory.java
 │   ├── test/
 │       ├── java/
 │       │   ├── io/
