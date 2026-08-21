@@ -15,5 +15,11 @@ api-test-automation-framework
                     │   ├── CucumberTest.java
                     │   └── CucumberDryRunTest.java
                     ├── stepdefs/
-                        ├── common
+                        ├── common/
+                        │   ├── ApiSteps.java
+                        │   ├── DataSetupSteps.java
+                        │   ├── ResponseAssertionSteps.java
+                        │   └── TimeAndDelaySteps.java
+                        ├── AuthenticationSteps.java
+                        ├── UserProfileSteps.java
 ```
