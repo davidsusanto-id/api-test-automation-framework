@@ -7,8 +7,12 @@ api-test-automation-framework
 │   │           ├── davidsusanto/
 │   │               ├── api/
 │   │                   ├── factory/
-│   │                       ├── RequestSpecFactory.java
-│   │                       └── ResponseSpecFactory.java
+│   │                       ├── response/
+│   │                           ├── common/
+│   │                           │   ├── BaseResponseSpec.java
+│   │                           │   └── ResponseValidator.java
+│   │                           ├── handler/
+│   │                               └── ResponseHandler.java
 │   ├── test/
 │       ├── java/
 │       │   ├── io/
