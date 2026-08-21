@@ -24,6 +24,6 @@ api-test-automation-framework
 │       │               ├── UserProfileSteps.java
 │       ├── resources/
 │           ├── features/
-                ├── user_profile.feature
+│               ├── user_profile.feature
 ├── build.gradle
 ```
