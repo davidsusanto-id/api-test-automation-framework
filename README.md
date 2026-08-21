@@ -7,6 +7,11 @@ api-test-automation-framework
 │   │           ├── davidsusanto/
 │   │               ├── api/
 │   │                   ├── factory/
+│   │                       ├── request/
+│   │                       │   ├── common/
+│   │                       │   │   └── BaseRequestSpecFactory.java
+│   │                       │   ├── auth/
+│   │                       │       └── AuthRequestSpecFactory.java
 │   │                       ├── response/
 │   │                           ├── common/
 │   │                           │   ├── BaseResponseSpec.java
